@@ -1,1 +1,1 @@
-# CSE470
+# Hotel Reservation System with unit testing
